@@ -1,0 +1,16 @@
+body {
+    background-color: cadetblue;
+}
+
+#aboutpage{
+  background-color: blue;
+}
+
+#projectspage{
+  background-color: chartreuse
+}
+
+ img:hover{
+      width:80%;
+      height: auto;
+}
