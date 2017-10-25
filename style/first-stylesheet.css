@@ -1,16 +1,64 @@
 body {
-    background-color: cadetblue;
+    background-color: slateblue;
 }
 
 #aboutpage{
-  background-color: blue;
+  background-color: dodgerblue;
 }
 
 #projectspage{
-  background-color: chartreuse
+  background-color: mediumseagreen;
 }
 
- img:hover{
-      width:80%;
+img:hover{
+      width:20%;
       height: auto;
+  }
+
+h1 {
+  text-align: center;
 }
+
+h1:hover {
+  color: white;
+  font-size: 50px;
+}
+
+h3 {
+  text-decoration: underline;
+  color: aqua;
+}
+
+h3:hover {
+  text-decoration: overline;
+  color: black;
+}
+
+h2:hover {
+  font-family: fantasy;
+  font-size: 30px;
+  font-style: italic;
+  color: yellow;
+}
+
+table{
+  background-color: #3399ff;
+  border-style: dashed;
+  border-radius: 20px;
+}
+
+table, th, td{
+  background-color: bisque;
+  border-style: groove;
+  border-radius: 10px;
+}
+
+p:hover {
+  border-style: dotted;
+  border-radius: 30px;
+  background-color: white;
+  text-align: center;
+  column-count: 3;
+}
+         
+
