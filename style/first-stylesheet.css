@@ -10,9 +10,6 @@ body {
   background-color: mediumseagreen;
 }
 
-img:hover{
-    height: auto;
-  }
 #puppy{
   width:500px;
   height: auto;
