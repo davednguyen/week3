@@ -11,9 +11,16 @@ body {
 }
 
 img:hover{
-      width:20%;
-      height: auto;
+    height: auto;
   }
+#puppy{
+  width:500px;
+  height: auto;
+}
+
+#puppy:hover, #machine:hover{
+  width:20%;
+}
 
 h1 {
   text-align: center;
